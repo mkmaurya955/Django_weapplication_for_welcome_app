@@ -1,0 +1,1 @@
+# Django_weapplication_for_welcome_app
